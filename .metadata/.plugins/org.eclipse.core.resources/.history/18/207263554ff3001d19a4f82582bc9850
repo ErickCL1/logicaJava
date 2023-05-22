@@ -1,0 +1,30 @@
+package logicaProgramacao;
+
+public class LivroDisponivel extends Livro{ 
+	
+	private quantidade;
+	
+	public LivroDisponivel(String titulo, String autor, String editora, int quantidade) {
+		 this.quantidade = quantidade;
+	}
+
+	public int getQuantidade() {
+		return quantidade;
+	}
+
+	public void setQuantidade(int quantidade) {
+		this.quantidade = quantidade;
+	}
+
+	public String getTitulo() {
+		return titulo;
+	}
+
+	
+	
+	 
+	
+	
+	
+	
+}

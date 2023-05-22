@@ -1,0 +1,31 @@
+package logicaProgramacao;
+
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.Scanner;
+
+public class DataHora {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		
+		LocalDate d01 = LocalDate.now();    // instanciação data
+		LocalDateTime d02 = LocalDateTime.now(); // instanciação data e hora
+		Instant d03 = Instant.now(); // instanciação data/hora global - Padrão GNT
+		
+		
+		System.out.println(d01);
+		System.out.println(d02);
+		System.out.println(d03);
+		
+		
+		
+		
+		
+		
+		sc.close();
+	}
+
+}
