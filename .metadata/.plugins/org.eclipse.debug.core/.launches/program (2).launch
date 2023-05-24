@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/logica2/src/logica2/program.java"/>
+        <listEntry value="/formularioEmpregados/src/logica2/program.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
@@ -9,5 +9,5 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="logica2.program"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="logica2"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="logica2"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="formularioEmpregados"/>
 </launchConfiguration>
