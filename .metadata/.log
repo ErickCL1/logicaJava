@@ -7472,3 +7472,8 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2023-05-24 17:56:16.026
 !MESSAGE The project description file (.project) for 'formularioEmpregados' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2023-05-24 18:01:16.297
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-05-24 18:01:16.297
+!MESSAGE The project description file (.project) for 'formularioEmpregados' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
